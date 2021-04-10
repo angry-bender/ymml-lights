@@ -1,0 +1,19 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/YMML-Lights/Thumbnail.jpg",
+      "size": 22823,
+      "date": 132625116359874784
+    },
+    {
+      "path": "scenery/mycompany/LightsSCN.bgl",
+      "size": 9260,
+      "date": 132625116598949108
+    },
+    {
+      "path": "scenery/mycompany/modelLib.BGL",
+      "size": 56,
+      "date": 132625073682439957
+    }
+  ]
+}
