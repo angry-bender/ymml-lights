@@ -7,7 +7,7 @@
 Nil
 
 ## Description
-Adds Lighting to Melbourne Airport for Microsoft Flight Simulator 2020. The project has been created manually, whilst trying to align the location of lights with Google Earth.
+Adds Lighting to Melbourne Airport for Microsoft Flight Simulator 2020 as there is no lighting in default airports. The project has been created manually, whilst trying to align the location of lights with Google Earth.
 
 ## Installation
 
